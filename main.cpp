@@ -124,7 +124,6 @@ void loop() {
   delay(StdDelay);
 
   // Reset Position
-  // please work
   runMotor(lower, -220, 1050);
   runMotor(upper, -180, 580);
 
